@@ -1,4 +1,4 @@
-Hungry Critter is a simple console-based game where you control an insect (Ant or Spider) to collect leaves while avoiding boundaries on a 20x20 board.
+Hungry Critter is a simple game where you control an insect (Ant or Spider) to collect leaves while avoiding boundaries on a 20x20 board.
 Choose between an Ant or a Spider as your critter.
 
 Each critter moves differently:
