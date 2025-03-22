@@ -7,4 +7,4 @@ Each critter moves differently:
   
 The board is randomly populated with leaves.
 Collect leaves while navigating the board.
-If your critter hits the boundary, it's GAME OVER!
+If your critter hits the boundary the game ends.
